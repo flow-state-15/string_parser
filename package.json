@@ -1,0 +1,8 @@
+{
+  "name": "string_parser",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^0.1.0"
+  }
+}
